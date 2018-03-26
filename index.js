@@ -1,1 +1,1 @@
-function happyHolidays(string){return string.to
+function happyHolidays(string){return string("Happy holidays!")}
