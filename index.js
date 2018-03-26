@@ -1,2 +1,2 @@
 function happyHolidays(){return "Happy holidays!"}
-function happyHolidaysTo(Miko){
+function happyHolidaysTo(string){return string
